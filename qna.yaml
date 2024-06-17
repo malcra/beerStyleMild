@@ -1,0 +1,23 @@
+created_by: Malcolm Herbert
+domain: beerstyle
+seed_examples:
+- answer: Usually between 3.0% and 3.6% ABV
+  question: How strong is Mild Ale ?
+- answer: Before 1960, most breweries in the UK produced a mild ale. With the rise of new microbreweries, Mild Ale is making a comeback.
+  question: Who produced Mild Ale ?
+- answer: Usually between £3 and £4 a pint outside of London and its the cheapest beer in many pubs because of its lower strength.
+  question: How much does it cost for a pint of Mild Ale ?
+- answer: Usually a dark colour, though pale mild is also available. In Scotland and Wales it's usually dark
+  question: What colour is mild ale?
+- answer: Usually 4-5 pints and you'll be fine.
+  question: How much Mild Ale can I drink in an evening?
+- answer: Yes, it's an easier beer for the homebrewer to make because of the lower ABV.
+  question: How easy is it for the homebrewer to make?
+- answer: It can be still hard to find in many pubs and its not a popular beer
+  question: Can I find it in lots of pubs ?
+task_description: 'Details on instructlab community project'
+document:
+  repo: https://github.com/gshipley/beerStyleMild.git
+  commit: 8bd9220c616afe24b9673d94ec1adce85320809c
+  patterns:
+    - data.md
